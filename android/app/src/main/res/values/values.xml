@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define Firebase options -->
+    <string name="google_app_id">1:366077990414:android:643849f2f7b6ae166b0e5f</string>
+    <string name="gcm_defaultSenderId">366077990414</string>
+</resources>
