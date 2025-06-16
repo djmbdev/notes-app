@@ -7,11 +7,13 @@ import 'package:note_app/screens/preloader.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-      options: const FirebaseOptions(
-          apiKey: "AIzaSyD5AnQk_9cetMcSTg_AVWO0U9HmHDRKmMk",
-          appId: "1:366077990414:android:643849f2f7b6ae166b0e5f",
-          messagingSenderId: "366077990414",
-          projectId: "note-app-c65fe"));
+    options: const FirebaseOptions(
+      apiKey: "yourApiKey",
+      appId: "yourAppId",
+      messagingSenderId: "yourMessagingSenderId",
+      projectId: "yourProjectId",
+    ),
+  );
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
