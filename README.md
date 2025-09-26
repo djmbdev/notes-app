@@ -83,6 +83,8 @@ flutter run
 
 This project was originally created in **2024** as part of academic coursework. It was later pushed to GitHub in **2025** after being rediscovered in project archives.
 
+<img src="https://github.com/user-attachments/assets/50e4291a-7c70-4f24-98fa-1731bfc7c359" alt="Flutter Notes App Demo" width="800">
+
 ---
 
 ## 🤝 Contributing
