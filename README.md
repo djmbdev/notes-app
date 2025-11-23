@@ -4,6 +4,8 @@ A straightforward Flutter application that demonstrates CRUD (Create, Read, Upda
 
 **Academic Project**: This project was created for **AP-4 - iOS Mobile Application Development Cross-Platform** coursework.
 
+https://github.com/user-attachments/assets/b1fbeb5d-83de-4882-a422-ae84957624bc
+
 ---
 
 ## ✨ Features
